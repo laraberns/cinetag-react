@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+}
+
+iframe{
+    height: 50vh;
+    width: 50vw;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 1440px) {
+    iframe{
+        width: 70vw;
+        height: 70vh;
+    }
+  }
